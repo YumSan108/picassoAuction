@@ -1,0 +1,15 @@
+p:hover {
+    background-color: orange;
+}
+
+li:nth-child(even) {
+    color: green;
+}
+
+section {
+    height: 100px;
+}
+
+h1 {
+    height: calc(100% - 15px);
+}
